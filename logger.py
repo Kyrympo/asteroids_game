@@ -11,7 +11,7 @@ _SPRITE_SAMPLE_LIMIT = 10  # Maximum number of sprites to log per group
 
 _frame_count = 0
 _state_log_initialized = False
-_event_log_initialized = False
+_event_log_initialized = Falses
 _start_time = datetime.now()
 
 
